@@ -41,6 +41,9 @@ dependencies:
   permission_handler: ^10.0.0
   path_provider: ^2.0.15
   flutter_p2p_connection: ^2.0.1
+  filesystem_picker: ^4.1.0
+  flutter_nearby_connections: ^1.1.2
+  flutter_styled_toast: ^2.2.1
 
 dev_dependencies:
   flutter_test:
